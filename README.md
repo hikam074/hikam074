@@ -37,9 +37,11 @@ Saya suka membangun sistem seperti:
 
 ## 📊 GitHub Stats
 
-<!--START_SECTION:github-stats-->
-<!-- Stats will be inserted here automatically by GitHub Action -->
-<!--END_SECTION:github-stats-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alhikamdev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhikamdev&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
