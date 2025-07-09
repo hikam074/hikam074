@@ -2,6 +2,17 @@
   <img height="150" src="https://avatars.githubusercontent.com/u/141762236?v=4" />
   <h1>Hi, I'm Mohammad Al Hikam 👋</h1>
   <p><strong>Fullstack Web Developer | Teaching Assistant | Tech Explorer</strong></p>
+  <p align="center">
+    <a href="mailto:hikam074@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/mohammad-al-hikam" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/hikam074" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
 </div>
 
 ---
@@ -39,24 +50,7 @@ Saya suka membangun sistem seperti:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hikam074&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikam074&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
-## 📫 Hubungi Saya
-
-<p align="left">
-  <a href="mailto:hikam074@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammad-al-hikam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/hikam074" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
