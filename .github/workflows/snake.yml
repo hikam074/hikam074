@@ -2,7 +2,7 @@ name: 🐍 Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 22 * * *" # Setiap hari jam 05:00 WIB (karena UTC+7)
+    - cron: "0 22 * * *"
   workflow_dispatch:
 
 jobs:
@@ -22,5 +22,9 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "🐍 update snake"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # FIX push error 128
+        with:
+          persist-credentials: false
