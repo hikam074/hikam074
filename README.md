@@ -20,11 +20,12 @@
 ## 👨‍💻 Tentang Saya
 
 Saya adalah developer yang berfokus pada pengembangan aplikasi web end-to-end, mulai dari sistem backend yang kompleks hingga tampilan frontend yang efisien dan responsif.  
-Saya suka membangun sistem seperti:
+Saya berpengalaman membangun sistem seperti:
 
 - ⚙️ Aplikasi lelang dengan Laravel & Midtrans, dengan :
-- 💳 Integrasi pembayaran otomatis (Midtrans, Xendit)
-- 🧠 Workflow coding terstruktur dengan Vite & Laravel 
+- 💳 Integrasi pembayaran otomatis (Midtrans), ongkir otomatis (RajaOngkir)
+- 🧠 Workflow coding terstruktur dengan Vite & Laravel
+- 📫 Notifikasi dengan WhatsApp API (Fonnte), Web Push OneSignal
 
 ---
 
