@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/141762236?v=4" />
+<!--   <img height="150" src="https://avatars.githubusercontent.com/u/141762236?v=4" /> -->
   <h1>Hi, I'm Mohammad Al Hikam 👋</h1>
   <p><strong>Fullstack Web Developer | Teaching Assistant | Tech Explorer</strong></p>
   <p align="center">
