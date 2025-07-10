@@ -19,8 +19,7 @@
 
 ## 👨‍💻 Tentang Saya
 
-Saya adalah developer yang berfokus pada pengembangan aplikasi web end-to-end, mulai dari sistem backend yang kompleks hingga tampilan frontend yang efisien dan responsif.  
-Saya berpengalaman membangun sistem seperti:
+Saya adalah developer yang berfokus pada pengembangan aplikasi web end-to-end, mulai dari sistem backend yang kompleks hingga tampilan frontend yang efisien dan responsif. Saya berpengalaman membangun sistem seperti:
 
 - ⚙️ Aplikasi lelang dengan Laravel & Midtrans, dengan :
 - 💳 Integrasi pembayaran otomatis (Midtrans), ongkir otomatis (RajaOngkir)
