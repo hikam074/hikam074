@@ -50,7 +50,7 @@ Saya berpengalaman membangun sistem seperti:
 
 ---
 
-## 🧪 Pernah Bekerja dengan Ini
+## 🧪 Pernah Bekerja Menggunakan Ini
 
 <p align="left">
   <!-- Frontend & CSS Tools -->
