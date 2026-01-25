@@ -56,6 +56,7 @@ Saya adalah developer yang berfokus pada pengembangan aplikasi web end-to-end, m
   <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat&logo=css&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007acc.svg?style=flat&logo=TypeScript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=Vite&logoColor=white" alt="Vite" />
@@ -65,11 +66,15 @@ Saya adalah developer yang berfokus pada pengembangan aplikasi web end-to-end, m
   <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=PHP&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/SweetAlert2-blue?style=flat&logo=laravel&logoColor=white" alt="SweetAlert2" />
   <img src="https://img.shields.io/badge/Toastr-gray?style=flat&logo=laravel&logoColor=white" alt="Toastr" />
+  <img src="https://img.shields.io/badge/Node.JS-339933.svg?style=flat&logo=Node.Js&logoColor=white" alt="Node.JS" />
+  <img src="https://img.shields.io/badge/Next.JS-000000.svg?style=flat&logo=nextdotjs&logoColor=white" alt="Next.JS"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat" alt="Express.JS" />
 
   <!-- Database -->
   <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Supabase-34B27B.svg?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
 
   <!-- Payment & API -->
   <img src="https://img.shields.io/badge/Midtrans-00A9F4.svg?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAz1BMVEUAKVUvgMKHxukGrNwDKFQAHEkAKVcCKVIpXZcug8IURHYAJE4AIVOJxemFx+mLyOx6r9UAsNkKqt0DMWEYq9cUkbkAKVoAI1AAK1IAJlUsfb8FJlgAIlUFKFAAM2BzrtIdjLgAK00bWIsvdKw2erctbKYYTYAKOnQugsk5gbopZpoCN2kib7A2iMoAJ10eT4YQQns5aY5onMExW4MIXokSga4BUH0XPGMfhLSHveUfpNVyossZn8lTgqVekLQZdKUgmcgjTHI+aI4Rb5gSg6tp/QcEAAAEAElEQVR4nO3ccVPaSBjH8YQ87BYDBgNmsyZQUGxFqkdF4VDurnfX9/+auiFV9jrimBmSvez8PtNO+YPp5EsCkZhnHQcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMYSyK2PZRzA1vSlm4Q6RC1QMyvSklGY8HpEgiZnpTShLHgvV6UZokkaWJsnd+MZlMLj9FzMpCJj9fTl336sqdXveIWfZWTBiXyezM/enmSxSljmNTpCoU6fVzoHt28ym1rdCJxWzq7lzcJpzb9GaMnLH4raUVTj9LHpveqkOK+Fh8uNEKW3MZ21eo70N3Lrhj01HKHJ7+t/DIZ1adMFRhG4X1hsL6Q2H9obD+al1IpP5Q9lWI9m9xoULGsmtWUv2HUjLzVwOy60rcbyrije97hQojORjwJJVCtpPs+uMbr1wViJEff73rdu8W4kCFKokN7x9Gpw/LSJjuy7amuVgHQdAJ1k8rf9/mFCoc8Gg56ntev//4+5Bz45cexaLT2Op01sN9B2qhQqLlo+eFofr7+G0Ymy6k4bpxvC08bgRPzUMUJrPNiQoMvb7654FMX84RfwSNF8HCf/1ZhQrTB887UXtQHadqLy59o4VE4uNzXqdxHPzZfP15RQop2oRhXqiEfwmzv8ahZqAXfjxE4XCj9qH3XDjy/1eF3YMUnjwfpZnRwPCv4lCYK1oYaoV7T7IVKaGw13/5pFGPTtuGz4cozKFQh8KqoTCHQh0Kq4bCHAp1KKwaCnMo1KGwaijMoVCHwqqhMIdCHQqrhsIcCnUorBoKcyjUobBqKMyhUIfCqqEwh0IdCquGwhwKdSisWrn3Joahlfcm/np/qdlb2e2/R1gVHu8KO13x+tOKFfa1+7zNF5Z/r77ZaQT1PtzNWxw3gsWe17vwvEX/57yFFy5Nzz2J3cxM0HnaN9xVbDpvlc/MbIdmRmR6Po+a2tzTih9iZobYfTb3tD1Iv60cbvhefUZi0QlUZNDp/r13+KPgZFd0vzlR+t7oyPEHhtc+I5W4+trtru/+8X2+7/UuOn/oDP893Wy+3w8ZGV/lhSQTvtjOkHJ+mMLIiQe8nUoSUpKU5W37O9HL+NwbH3rF9iHjnPI5YFLvAtMDlu9T61nud0Fh/aGw/lBYfyisP/sL1Y+a7Q96oHVr7m1XFdQDW/NkYNW6iYyP/V/WvrRtdc947B9ZvX5p4sSU7NagdW/Ok9SxatnybB3hdLYr/NKLErsKnez7sZxPWu7VVWs6vby16USxw25n15Mzd3pxniSmt6UkPqfebD5LEuOrW5VloE6BJKUk05dAS0OU7zwyfYGwNIxlC+qr/WjdxygAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAECd/ACc2pgNbBuAdwAAAABJRU5ErkJggg==" alt="Midtrans" />
